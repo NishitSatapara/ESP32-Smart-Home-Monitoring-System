@@ -96,7 +96,7 @@ Dashboard refreshes automatically every 3 seconds.
 
 Add your hardware image here:
 
-![Hardware Setup](images/hardware-setup.jpg)
+![Hardware Setup](hardware-setup.jpeg)
 
 
 ## 👨‍💻 Author
